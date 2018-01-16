@@ -1,0 +1,10 @@
+#File Metadat
+{
+   Repository name : "mynewrepository",
+   Date : 16/01/2018,
+   Branch name : " master "
+                   -(employee-change), 
+                    -(demo-branch-1 ),
+
+   Database Used : "MongoDB"
+}
