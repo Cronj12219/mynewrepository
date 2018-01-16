@@ -1,0 +1,27 @@
+# Employee DataBase 
+{
+    "name":"Avinash",
+    "address":"Bangalore",
+     "Graduation": "BE".
+
+    
+    "name":"Akash",
+    "address":"Indore",
+     "Graduation": "BE".
+
+
+     
+    "name":"Abhishek",
+    "address":"Mumbai",
+     "Graduation": "BE".
+  
+    
+    "name":"Abhinav",
+    "address":"Pune",
+     "Graduation": "BE".
+
+    
+    "name":"Ashish",
+    "address":"Bangalore",
+     "Graduation": "BE".
+}
